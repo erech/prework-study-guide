@@ -24,8 +24,5 @@ N/A
 
 ## License
 
-<<<<<<< HEAD
-Refer to the LICENSE in the repo. 
-=======
-Refer to the LICENSE in the repo. 
->>>>>>> origin
+Refer to the LICENSE in the repo.
+
