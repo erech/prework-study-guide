@@ -18,6 +18,8 @@ This study guide is ever changing as the knowledge of coding expands,
 thus, might be helpful for future references of not only the listed languages
 but also for structure development, Gitflow, etc. 
 
+Webpage link: https://erech.github.io/prework-study-guide/
+
 ## Credits
 
 N/A
